@@ -67,3 +67,5 @@ To use the Typing Test application, follow these steps:
 ## License
 
 This project is licensed under the MIT License. See the <ins> LICENSE </ins> file for details.
+
+# Welcome to our website. first step you should to register your account by input your username email and your password. And then you go to login your account that you registered and if your forgot password please click reset and then reset your password so you can login successfully.
